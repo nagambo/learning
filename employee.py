@@ -11,9 +11,6 @@ class Employee:
         return '{} {}'.format(self.first, self.last)
 
 
-
-
-
 emp_1 = Employee('Madu', 'labs', 50000)
 emp_2 = Employee('Test', 'Name', 60000)
 
